@@ -1,0 +1,12 @@
+Hello
+How are you
+What time is it
+What is today's date
+Wake  up
+Stop talking
+Stop Listening
+Show Commands
+Hide Commands
+What is the weather
+Thanks
+No
